@@ -1,0 +1,24 @@
+.title {
+  color: blue;
+}
+
+#heading {
+  color: green;
+}
+
+
+.box {
+  /* px / percent 단위로 폭 지정 가능 */
+  width: 300px;
+  /* height: 300px; */
+  color: #fff;
+  text-align: center;
+  background-color: dodgerblue;
+  /* 상하좌우 여백 */
+  margin: 10px auto;
+  /* 상하좌우 안쪽 여백 */
+  padding: 30px;
+  border: 2px solid darkorange;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #777;
+}
